@@ -25,10 +25,10 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
   void initState() {
     super.initState();
 
-    _controller = VideoPlayerController.asset(widget.videoUrl)
-      ..setVolume(0)
-      ..setLooping(true)
-      ..play();
+    _controller = VideoPlayerController.asset(widget.videoUrl);
+      // ..setVolume(0)
+      // ..setLooping(true)
+      // ..play();
   }
 
   @override
