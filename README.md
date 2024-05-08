@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Run
+
+Declare and implement and DataSource and Repository for clean architecture software design pattern
+
+`lib/domain/datasources/*`
+`lib/domain/repositories/*`
+
 ## Mock Videos
 
 ### !Important
